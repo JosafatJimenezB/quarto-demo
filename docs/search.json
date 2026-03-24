@@ -1,9 +1,0 @@
-[
-  {
-    "objectID": "ai-log.html",
-    "href": "ai-log.html",
-    "title": "mi-primer-dashboard",
-    "section": "",
-    "text": "Herramientas utilizadas: lista de las herramientas de IA empleadas. Registro de uso: entradas individuales para cada interacción significativa, con:\nla fecha,\nla tarea delegada,\nel prompt,\nel resultado obtenido y\nlas modificaciones que realizó el equipo.\nDecisiones propias: para cada entrada, una explicación de por qué se aceptó, rechazó o modificó la salida de la IA."
-  }
-]

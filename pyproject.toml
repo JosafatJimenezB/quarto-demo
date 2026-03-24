@@ -1,0 +1,14 @@
+[project]
+name = "quarto-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "nbformat>=5.10.4",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+    "plotly>=6.6.0",
+    "quarto-cli>=1.9.36",
+]
